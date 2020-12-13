@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+  }
+
+.buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-gap: 5px;
+    align-items: center;
+    background-color: turquoise;
+    border-radius: 30px;
+    border-style: groove;
+    border-width: 16px;
+    border-color: #5412a0;
+    max-width: 700px;
+
+}
+
+.buttons img:hover {
+opacity: 0.50;
+}
+
+
+/*===== MEDIA QUERIES - BREAKPOINTS - RESPONSIVE SITES  ================*/
+/* ---// EXTRA SMALL devices (portrait phones, 250px or smaller)--*/
+
+@media (max-width: 250px) {
+    .buttons {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 200px 225px 200px;
+        background-color: turquoise;
+        border-radius: 30px;
+        border-style: groove;
+        border-width: 16px;
+        border-color: #5412a0;
+    }
+}
+
+/*--// SMALL devices (landscape phones, 575.98px or smaller) media --*/
+/*======SMALL Devices  ========*/        
+@media (min-width: 576px) {/* Means smaller than 575.98 that this will be the view*/
+    .buttons {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 250px 275px 250px;
+        background-color: turquoise;
+        border-radius: 30px;
+        border-style: groove;
+        border-width: 16px;
+        border-color: #5412a0;
+    }
+}
+
+/* ============= In the commented out media queries I coudl make this responsive =============================*/
+/* ============= But I wnat the UI to stay within a max-width of 700px or smaller  =============================*/
+
+/*======================MEDIUM DEVICES=============================*/
+/*--// MEDIUM devices (tablets, measn smaller than 767.98px down to 575.98px)--*/
+@media (min-width: 768px) {
+ /*   .buttons {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 300px 325px 300px;
+        background-color: turquoise;
+        border-radius: 30px;
+        border-style: groove;
+        border-width: 16px;
+        border-color: #5412a0;
+        padding: 20px;
+        margin: 0px;
+    }
+}
+
+ /* ============= LARGE DEVICES - PAGE 1 - HOME PAGE =============================*/
+/*--LARGE devices (desktops, 991.98px down to 767.98px)--*/
+@media (min-width: 992px) { 
+    /*  .buttons { 
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 350px 375px 350px;
+        background-color: turquoise;
+        border-radius: 30px;
+        border-style: groove;
+        border-width: 16px;
+        border-color: #5412a0;
+        padding: 20px;
+        margin: 0px;
+    }
+}   
+
+/*--// EXTRA LARGE  devices (large desktops, 991.98px and upwards)--*/
+@media (min-width: 1200px) {
+   /*  .buttons {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 450px 500px 450px;
+        background-color: turquoise;
+        border-radius: 30px;
+        border-style: groove;
+        border-width: 16px;
+        border-color: #5412a0;
+        padding: 60px;
+        margin: 0px;
+    }
+}
