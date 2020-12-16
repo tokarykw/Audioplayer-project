@@ -1,4 +1,6 @@
 
+//I am aware this is baby code and is the long way of writing something that could be much shorter. My level of knowledge does not extend to that level of complexity just yet, as I am a beginner.  I am working on it but only got so far with my understanding this term.
+
 //sound ONE
 let soundFx = document.querySelector(`#alpha`)
 

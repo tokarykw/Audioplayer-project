@@ -52,8 +52,9 @@ opacity: 0.50;
     }
 }
 
-/* ============= In the commented out media queries I coudl make this responsive =============================*/
-/* ============= But I wnat the UI to stay within a max-width of 700px or smaller  =============================*/
+/* ============= The below commented out media queries would make this UI responsive =============================*/
+/* ============= However; I want the UI to stay within a max-width of 700px or smaller  =============================*/
+/* ============= I changed my mind about it -  but left this in for reference  =============================*/
 
 /*======================MEDIUM DEVICES=============================*/
 /*--// MEDIUM devices (tablets, measn smaller than 767.98px down to 575.98px)--*/
