@@ -2,9 +2,9 @@
 ### Description: Visual Audio UI designed for web
 ### Created in December 2020 
 ### Author: Wendy Tokaryk
-### For: WDDM-114 Applied Web Design at Humber College
+### For: WDDM-114 Applied Web Design, and WDDM-115 Tools and Workflow for the Web (Humber College)
 
-The intention of this assigned project was to build an audio player using HTML, CSS, and Javascript.  I chose to design a personal and untraditional interface focused on graphic symbolism.  The absence of text references pre-linguistic communication using only hand-drawn or notated elements together with basic sounds.  The sounds reference the human body or tools invented and activated by human touch. 
+The intention of this assigned project was to build an audio player using HTML, CSS, and Javascript.  I chose to design a personal and untraditional interface (the anti-apple aesthetic) focused on a vernacular-style of graphic symbolism.  The absence of text references pre-linguistic communication using only hand-drawn or notated elements together with basic sounds.  The sounds I chose reference the human body or tools and technologies (both old and new) that are activated by human touch. 
 
 ## Table of Contents
 1. General info
@@ -40,7 +40,7 @@ https://www.notion.so/Project-Interactive-Audio-Interface-ea45ba2cd240488094c901
 
 
 ## 5. Features
--  I used original icons that I designed and created with Adobe Illustrator.
+-  I incorporated original icons that I designed and created with Adobe Illustrator.
 
 To-do list:
 - Learn and practice  complex javascript.
@@ -57,7 +57,7 @@ Project is: in progress.
 I will continue to work on this project as a practical learning tool.  Practical application is important to reinforce the new knowledge acquired this term, including the technologies listed in section 4 and the TO-DO list in section 5 of this README.md document. 
 
 ## 7. Inspiration
-Project inspired by..., based on...
+Project inspired by the research of Canadian paleoanthropologist, Genevieve von Petzinger.
 
 ## 8. Resources
 https://freesfx.co.uk/
