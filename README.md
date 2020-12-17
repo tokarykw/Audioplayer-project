@@ -12,14 +12,13 @@ The intention of this assigned project was to build an audio player using HTML, 
 3. Technologies
 4. Setup
 5. Features
-8. Status
-9. Inspiration
-10. Resources
-11. Contact
+6. Status
+7. Inspiration
+8. Resources
+9. Contact
 
 ## 1. General Info
-What the purpose of the project is? Motivation?
-As a student with no prior knowledge of or experience with programming I am interested in the very new and short history of this medium.  From a very recent perspective, I am surprised by the slow rate of innovation and advances in HTML, CSS, and Javascript since the 1990's.  One example is the introduction of the grid and flex box model in CSS onlyhaving occured within the last few years.  The purpose of this project is to engage in practical learning towards understanding these new languages. This is my first attempt at building a model using HTML, CSS, and Javascript to explore both concept and visual design.
+As a student with no prior knowledge of or experience with programming I am interested in the very new and short history of this medium.  As a newcomer, I am surprised by the slow rate of innovation and advances in HTML, CSS, and Javascript since the 1990's.  One example is the introduction of the grid and flex box model in CSS only having occured within the last few years.  The purpose of this Visual Audio Project is to engage in practical learning towards understanding these languages. This is my first attempt at building a model using HTML, CSS, and Javascript that allows me to explore programming together with concept and visual design.
 
 ## 2. Screenshots
 https://github.com/tokarykw/visualaudioproject/blob/master/images/interface-screenshot.png
@@ -43,7 +42,7 @@ https://www.notion.so/Project-Interactive-Audio-Interface-ea45ba2cd240488094c901
 -  I incorporated original icons that I designed and created with Adobe Illustrator.
 
 To-do list:
-- Learn and practice  complex javascript.
+- Learn and practice complex javascript.
 - Modify javascript to make it more efficient (use of objects, arrays, and short forms).
 - Learn how to add animation and video.  
 - Replace illustrations with alternate gif animations that activate upon click, to be played in tandem with the existing sounds.
@@ -57,7 +56,11 @@ Project is: in progress.
 I will continue to work on this project as a practical learning tool.  Practical application is important to reinforce the new knowledge acquired this term, including the technologies listed in section 4 and the TO-DO list in section 5 of this README.md document. 
 
 ## 7. Inspiration
-Project inspired by the research of Canadian paleoanthropologist, Genevieve von Petzinger.
+Project inspired by the research of Canadian paleoanthropologist, Genevieve von Petzinger. 
+
+https://github.com/tokarykw/visualaudioproject/blob/master/images/cave-art.png
+
+I was also inspired by the Ada Lovelace and Grace Hopper references throughout the last half of the term.  I am intrigued to learn more about women (both past and present) in the fields of computer science, programming, and web development.
 
 ## 8. Resources
 https://freesfx.co.uk/
