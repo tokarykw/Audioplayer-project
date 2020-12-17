@@ -1,5 +1,5 @@
 # Title: Visual Audio Project
-### Description: Audio Visual UI designed for web
+### Description: Visual Audio UI designed for web
 ### Created in December 2020 
 ### Author: Wendy Tokaryk
 ### For: WDDM-114 Applied Web Design at Humber College
@@ -35,6 +35,7 @@ https://github.com/tokarykw/visualaudioproject/blob/master/images/interface-scre
 
 ## 4. Setup
 https://tokarykw.github.io/visualaudioproject/
+
 https://www.notion.so/Project-Interactive-Audio-Interface-ea45ba2cd240488094c9012065a7a916
 
 
@@ -42,22 +43,25 @@ https://www.notion.so/Project-Interactive-Audio-Interface-ea45ba2cd240488094c901
 -  I used original icons that I designed and created with Adobe Illustrator.
 
 To-do list:
-- Learn more and practice more complex code.
-- Modify code to condense it and make it more efficient (use of objects, arrays, and short forms).
+- Learn and practice  complex javascript.
+- Modify javascript to make it more efficient (use of objects, arrays, and short forms).
 - Learn how to add animation and video.  
-- Replace illustrations with alternate gif animations then activate upon click, to be played with the existing sounds.
+- Replace illustrations with alternate gif animations that activate upon click, to be played in tandem with the existing sounds.
 - Progress beyond beginner javascript.
 - Create similar, original projects as web documents with HTML, CSS, and Javascript.
+- Continue to learn about Github features
+- Use Version Control from the beginning of all future projects.
 
 ## 6. Status
 Project is: in progress.
-I will continue to work on this project as a practical learning tool.  Practical application is important to reinforce the new knowledge acquired this term, including the technologies listed in section 4 of this README.md document. 
+I will continue to work on this project as a practical learning tool.  Practical application is important to reinforce the new knowledge acquired this term, including the technologies listed in section 4 and the TO-DO list in section 5 of this README.md document. 
 
 ## 7. Inspiration
 Project inspired by..., based on...
 
 ## 8. Resources
 https://freesfx.co.uk/
+
 https://github.com/ritaly/README-cheatsheet#technologies
 
 ## 9. Contact
