@@ -1,58 +1,64 @@
-# Title: visualaudioproject
-## Description: Audio Visual UI designed for web
-## Created in December 2020 
-## Author: Wendy Tokaryk
-## For: WDDM-114 Applied Web Design at Humber College
+# Title: Visual Audio Project
+### Description: Audio Visual UI designed for web
+### Created in December 2020 
+### Author: Wendy Tokaryk
+### For: WDDM-114 Applied Web Design at Humber College
 
-This project was created with the intention to build an audio player using HTML, CSS, and Javascript.  I chose to design a personal and untraditional interface using graphic symbolism.
+The intention of this assigned project was to build an audio player using HTML, CSS, and Javascript.  I chose to design a personal and untraditional interface focused on graphic symbolism.  The absence of text references pre-linguistic communication using only hand-drawn or notated elements together with basic sounds.  The sounds reference the human body or tools invented and activated by human touch. 
 
-### Table of contents
+## Table of Contents
 1. General info
 2. Screenshots
-4. Technologies
-5. Setup
-6. Features
-7. Status
-8. Inspiration
-9. Resources
-10. Contact
+3. Technologies
+4. Setup
+5. Features
+8. Status
+9. Inspiration
+10. Resources
+11. Contact
 
-### General info
+## 1. General Info
 What the purpose of the project is? Motivation?
 As a student with no prior knowledge of or experience with programming I am interested in the very new and short history of this medium.  From a very recent perspective, I am surprised by the slow rate of innovation and advances in HTML, CSS, and Javascript since the 1990's.  One example is the introduction of the grid and flex box model in CSS onlyhaving occured within the last few years.  The purpose of this project is to engage in practical learning towards understanding these new languages. This is my first attempt at building a model using HTML, CSS, and Javascript to explore both concept and visual design.
 
-### Screenshots
-Example screenshot
+## 2. Screenshots
+https://github.com/tokarykw/visualaudioproject/blob/master/images/interface-screenshot.png
 
-### Technologies
-HTML
-CSS
-Javascript
+## 3. Technologies
+- Adobe Illustrator
+- HTML
+- CSS
+- Javascript
+- Visual Studio Code
+- Version Control (git)
+- GitHub
 
-### Setup
-Describe how to install / setup your local environement / add link to demo version.
+## 4. Setup
+https://tokarykw.github.io/visualaudioproject/
+https://www.notion.so/Project-Interactive-Audio-Interface-ea45ba2cd240488094c9012065a7a916
 
-Code Examples
-Show examples of usage: put-your-code-here
 
-## Features
-List of features ready and TODOs for future development
+## 5. Features
+-  I used original icons that I designed and created with Adobe Illustrator.
 
-Awesome feature 1
-Awesome feature 2
-Awesome feature 3
 To-do list:
+- Learn more and practice more complex code.
+- Modify code to condense it and make it more efficient (use of objects, arrays, and short forms).
+- Learn how to add animation and video.  
+- Replace illustrations with alternate gif animations then activate upon click, to be played with the existing sounds.
+- Progress beyond beginner javascript.
+- Create similar, original projects as web documents with HTML, CSS, and Javascript.
 
-Wow improvement to be done 1
-Wow improvement to be done 2
+## 6. Status
+Project is: in progress.
+I will continue to work on this project as a practical learning tool.  Practical application is important to reinforce the new knowledge acquired this term, including the technologies listed in section 4 of this README.md document. 
 
-## Status
-Project is: in progress, finished, no longer continue and why?
+## 7. Inspiration
+Project inspired by..., based on...
 
-## Inspiration
-Add here credits. Project inspired by..., based on...
+## 8. Resources
+https://freesfx.co.uk/
+https://github.com/ritaly/README-cheatsheet#technologies
 
-## Resources
-
-## Contact
+## 9. Contact
 Created by tokaryk@hotmail.com
