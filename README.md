@@ -4,7 +4,7 @@
 ### Author: Wendy Tokaryk
 ### For: WDDM-114 Applied Web Design, and WDDM-115 Tools and Workflow for the Web (Humber College)
 
-The intention of this assigned project was to build an audio player using HTML, CSS, and Javascript.  I chose to design a personal and untraditional interface (the anti-apple aesthetic) focused on a vernacular-style of graphic symbolism.  The absence of text references pre-linguistic communication using only hand-drawn or notated elements together with basic sounds.  The sounds I chose reference the human body or tools and technologies (both old and new) that are activated by human touch. 
+The intention of this assigned project was to build an audio player using HTML, CSS, and Javascript.  I chose to design a personal and untraditional interface (the anti-apple aesthetic) focused on a vernacular-style of graphic symbolism.  The absence of text references logo-syllabic script using only hand-drawn or notated elements together with basic sounds.  The sounds I chose reference the human body or tools and technologies (both old and new) that are activated by human touch. 
 
 ## Table of Contents
 1. General info
