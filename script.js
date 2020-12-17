@@ -1,6 +1,9 @@
 
-//I am aware this is baby code and is the long way of writing something that could be much shorter. My level of knowledge does not extend to that level of complexity just yet, as I am a beginner.  I am working on it but only got so far with my understanding this term.
+//I am aware this is baby code and is the long way of writing something that could be much shorter. My level of knowledge does not extend to that level of complexity just yet, as I am a beginner.  I am working on it but only achieved a basci level of understanding so-far this term.
 
+
+//=============  Original js - simple  =====================
+ 
 //sound ONE
 let soundFx = document.querySelector(`#alpha`)
 
@@ -102,3 +105,75 @@ let wavSoundNine = function() {
  }
  
  soundFxNine.addEventListener(`click`, wavSoundNine)
+ 
+ /* =============     JsS WORK IN PROGRESS... ==========================
+
+let mainBtns = document.querySelector('.buttons')
+
+let allSounds = [
+  {
+  id: 'alpha',
+  img: 'icons/alpha.svg',
+  sound: 'audio/arti-shell.mp3',
+  desc: 'square symbol with inner circle containing a three fingered hand.'
+}, {
+  id: 'beta',
+  img: 'icons/beta.svg',
+  sound: 'audio/bell-tree.mp3',
+  desc: 'a square shape with inner circle covering a five-sided star containing a three fingered hand.'
+},{
+  id: 'waves',
+  img: 'icons/waves.svg',
+  sound: '`audio/whoosh.mp3`',
+  desc: 'hexagon shape with smaller inner hexagon shape conttaining an illustration of sound amplification waves.'
+},{
+  id: 'pause',
+  img: 'icons/pause-fancy.svg',
+  sound: '`audio/boing.mp3`',
+  desc: 'Two parallel vertical thick bar shapes highlighted by repeating multi-colored lines.'
+},{
+  id: 'play',
+  img: 'icons/play.svg',
+  sound: '`audio/bullwhip.mp3`',
+  desc: 'Triangle pointing downward with green addition sign in the centre, surrounded by three small yellow dots.'
+},{
+  id: 'progress',
+  img: 'icons/progress.svg',
+  sound: '`audio/fart-two.mp3`',
+  desc: 'Three vertical bars of varying thicknesses and vertical formation. Inside each bar is an ellipse with some line notations.'
+},{
+  id: 'squiggles',
+  img: 'icons/squiggles.svg',
+  sound: '`audio/flute.mp3`',
+  desc: 'A rectangle in portrati orientation framing a flock of vertical line notations.'
+},{
+  id: 'mirror',
+  img: 'icons/mirror.svg',
+  sound: '`audio/laugh.mp3`',
+  desc: 'An oval in portarit orientation framing a series of empty asymmetrical shaped circles.'
+},{
+  id: 'stop',
+  img: 'icons/zeta.svg',
+  sound: '`audio/wangle.mp3`',
+  desc: 'A perect square containg another smaller square, of various colors and borders.'
+},
+]
+
+
+let soundFx = document.createElement(`div`)
+soundFx.setAttribute(`id`, allSounds.id)
+
+let soundImg = document.createElement(`img`)
+soundImg.setAttribute(`src`, allSounds.img)
+soundImg.setAttribute(`alt`, allSounds.desc)
+
+let wavSound = function() {
+  let newSound = new Audio(allSounds.sound)
+  newSound.play()
+ }
+ soundFx.addEventListener(`click`, wavSound)
+
+soundFx.append(soundImg)
+mainBtns.append(soundFx)
+
+*/

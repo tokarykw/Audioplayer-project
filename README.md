@@ -65,6 +65,8 @@ I was also inspired by the Ada Lovelace and Grace Hopper references throughout t
 ## 8. Resources
 https://freesfx.co.uk/
 
+https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
+
 https://github.com/ritaly/README-cheatsheet#technologies
 
 ## 9. Contact
