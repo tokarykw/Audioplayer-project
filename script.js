@@ -1,5 +1,5 @@
 
-//I am aware this is baby code and is the long way of writing something that could be much shorter. My level of knowledge does not extend to that level of complexity just yet, as I am a beginner.  I am working on it but only achieved a basci level of understanding so-far this term. I have another version of js code that is commented out at the bottom of this page, but have some issues with it.  So still figuring that out.
+/* I am aware this is baby code and is the long way of writing something that could be much shorter. My level of knowledge does not extend to that level of complexity just yet, as I am a beginner.  I am working on it but only achieved a basci level of understanding so-far this term. I have another version of js code that is commented out at the bottom of this page, but have some issues with it.  So still figuring that out.*/
 
 
 //=============  Original js - simple  =====================
