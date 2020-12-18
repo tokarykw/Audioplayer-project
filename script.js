@@ -1,5 +1,5 @@
 
-//I am aware this is baby code and is the long way of writing something that could be much shorter. My level of knowledge does not extend to that level of complexity just yet, as I am a beginner.  I am working on it but only achieved a basci level of understanding so-far this term.
+//I am aware this is baby code and is the long way of writing something that could be much shorter. My level of knowledge does not extend to that level of complexity just yet, as I am a beginner.  I am working on it but only achieved a basci level of understanding so-far this term. I have another version of js code that is commented out at the bottom of this page, but have some issues with it.  So still figuring that out.
 
 
 //=============  Original js - simple  =====================
@@ -106,7 +106,7 @@ let wavSoundNine = function() {
  
  soundFxNine.addEventListener(`click`, wavSoundNine)
  
- /* =============     JsS WORK IN PROGRESS... ==========================
+ /* =============     JS WORK IN PROGRESS... ==========================
 
 let mainBtns = document.querySelector('.buttons')
 
@@ -158,7 +158,6 @@ let allSounds = [
   desc: 'A perect square containg another smaller square, of various colors and borders.'
 },
 ]
-
 
 let soundFx = document.createElement(`div`)
 soundFx.setAttribute(`id`, allSounds.id)

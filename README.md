@@ -18,7 +18,7 @@ The intention of this assigned project was to build an audio player using HTML, 
 9. Contact
 
 ## 1. General Info
-As a student with no prior knowledge of or experience with programming I am interested in the very new and short history of this medium.  As a newcomer, I am surprised by the slow rate of innovation and advances in HTML, CSS, and Javascript since the 1990's.  One example is the introduction of the grid and flex box model in CSS only having occured within the last few years.  The purpose of this Visual Audio Project is to engage in practical learning towards understanding these languages. This is my first attempt at building a model using HTML, CSS, and Javascript that allows me to explore programming together with concept and visual design.
+As a student with no prior knowledge of, or experience with, programming I am interested in the very new and short history of this medium.  As a newcomer, I am surprised by the slow rate of innovation and advances in HTML, CSS, and Javascript since the 1990's.  One example is the introduction of the grid and flex box model in CSS (only having occured within the last few years).  The purpose of this Visual Audio Project is to engage in practical learning towards understanding these languages. This is my first attempt at building a model using HTML, CSS, and Javascript that allows me to explore programming together with concept and visual design.
 
 ## 2. Screenshots
 https://github.com/tokarykw/visualaudioproject/blob/master/images/interface-screenshot.png
@@ -60,7 +60,7 @@ Project inspired by the research of Canadian paleoanthropologist, Genevieve von 
 
 https://github.com/tokarykw/visualaudioproject/blob/master/images/cave-art.png
 
-I was also inspired by the Ada Lovelace and Grace Hopper references throughout the last half of the term.  I am intrigued to learn more about women (both past and present) in the fields of computer science, programming, and web development.
+I was also inspired by the Ada Lovelace and Grace Hopper references throughout the last half of the term.  I pursued independant research about these women to learn more about their contributions to the development of computer programming.  I am intrigued to learn more about women (both past and present) in the fields of computer science, programming, and web development.
 
 ## 8. Resources
 https://freesfx.co.uk/
